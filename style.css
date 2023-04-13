@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.aumenta{
+  font-size: 200%;
+  font-weight: 900;
+}
+
+.volta{
+  font-size: 100%;
+  font-weight: 400;
+}
+
+.corfundo{
+  background-color: rgba(25, 135, 84, 1);
+}
+
+.espaçoh{
+  height: 40px;
+}
+.espaçov{
+  width: 20px;
+}
